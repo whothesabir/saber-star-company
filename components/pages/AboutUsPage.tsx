@@ -16,7 +16,7 @@ const AboutUsPage: React.FC = () => {
             </p>
           </div>
           <div className="order-1 md:order-2">
-            <img src="https://i.postimg.cc/bwRxcVVp/nuts-image.png" alt="Nuts in a bowl" className="rounded-lg shadow-xl" />
+            <img src="https://i.postimg.cc/YSgDPBgk/nuts-image.png" alt="Nuts in a bowl" className="rounded-lg shadow-xl" />
           </div>
         </div>
 
@@ -24,7 +24,7 @@ const AboutUsPage: React.FC = () => {
         <div className="bg-stone-50 rounded-lg p-8 md:p-12">
           <div className="grid md:grid-cols-3 gap-12 items-center">
             <div className="md:col-span-1 text-center">
-              <img src="https://i.postimg.cc/JzQNVY6d/CEO.png" alt="GM Sabir" className="rounded-full shadow-xl w-64 h-64 mx-auto object-cover" />
+              <img src="https://i.postimg.cc/4NV5ZQnk/CEO.png" alt="GM Sabir" className="rounded-full shadow-xl w-64 h-64 mx-auto object-cover" />
               <h3 className="text-2xl font-bold mt-6 text-stone-800">GM Sabir</h3>
               <p className="text-stone-500">Founder & Visionary Leader</p>
             </div>

@@ -10,9 +10,9 @@ interface HomePageProps {
 
 const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
   const featuredProducts = [
-    { name: 'Premium Almonds', description: 'Crunchy and nutritious, perfect for a healthy snack.', image: 'https://picsum.photos/seed/almonds/400/300' },
-    { name: 'Roasted Cashews', description: 'Rich, buttery cashews roasted to perfection.', image: 'https://i.postimg.cc/bwRxcVVp/nuts-image.png' },
-    { name: 'Dried Vegetable Mix', description: 'A savory mix of our finest dried vegetables.', image: 'https://picsum.photos/seed/vegmix/400/300' },
+    { name: 'Premium Almonds', description: 'Crunchy and nutritious, perfect for a healthy snack.', image: 'https://i.postimg.cc/25v9tNvD/almond.png' },
+    { name: 'Roasted Cashews', description: 'Rich, buttery cashews roasted to perfection.', image: 'https://i.postimg.cc/YSgDPBgk/nuts-image.png' },
+    { name: 'Dried Vegetable Mix', description: 'A savory mix of our finest dried vegetables.', image: 'https://i.postimg.cc/BvD7zfDG/mix-vegetables.png' },
   ];
 
   return (

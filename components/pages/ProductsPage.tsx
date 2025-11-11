@@ -15,22 +15,22 @@ const ProductsPage: React.FC = () => {
     {
       title: 'AI Smart Vending Machine',
       description: 'Experience convenience in health-conscious environments like gyms & hospitals. Pick your nuts, measure grams, protein, and calories, and get your fresh mix in under 3 minutes.',
-      image: 'https://i.postimg.cc/6phrJbbx/vending-machine.png'
+      image: 'https://i.postimg.cc/d0dNfcdF/vending-machine.png'
     },
     {
       title: 'Bulk Selling to Wholesalers',
       description: 'We supply premium nuts & dried vegetables in large volumes, trusted by major markets for quality, consistency, and authentic Saudi production. Contact us for wholesale inquiries.',
-      image: 'https://i.postimg.cc/Njx6qCCf/wholesale.png'
+      image: 'https://i.postimg.cc/R0fpYxfJ/wholesale.png'
     },
     {
       title: 'Exporting to GCC Countries',
       description: 'Our premium Saudi-made nuts & vegetables, crafted with care and packed with quality, are delivered across the GCC to share the taste of Saudi excellence.',
-      image: 'https://i.postimg.cc/W17GLYYN/export.png'
+      image: 'https://i.postimg.cc/vm92Kw9c/export.png'
     },
     {
       title: 'Universities & Libraries',
       description: 'We promote healthy snacking options, encouraging youth to choose smarter, nutritious bites that fuel focus and energy.',
-      image: 'https://i.postimg.cc/y8Tm4ppH/University.png'
+      image: 'https://i.postimg.cc/vm92Kw9T/University.png'
     }
   ];
 

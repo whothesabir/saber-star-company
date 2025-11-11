@@ -24,13 +24,13 @@ const WhyChooseUsPage: React.FC = () => {
         <AdvantageCard
           title="Saudi-Made"
           description="Premium dry nuts and vegetables sourced locally and globally, bringing you the best of Saudi quality."
-          image="https://picsum.photos/seed/saudi/600/400"
+          image="https://i.postimg.cc/GhhNmN0T/saudi-made.png"
         />
 
         <AdvantageCard
           title="AI-Streamlined"
           description="Efficient manufacturing using sustainable technology, saving time and man-hours, ensuring consistent quality."
-          image="https://i.postimg.cc/bwmCPvd7/Generated-Image-November-10-2025-3-46PM.png"
+          image="https://i.postimg.cc/Zq3sQz3p/ai-streamlined.png"
         />
         
         {/* Call to Action Section */}

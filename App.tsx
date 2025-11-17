@@ -5,6 +5,7 @@ import HomePage from './components/pages/HomePage';
 import AboutUsPage from './components/pages/AboutUsPage';
 import ProductsPage from './components/pages/ProductsPage';
 import WhyChooseUsPage from './components/pages/WhyChooseUsPage';
+import ContactUsPage from './components/pages/ContactUsPage';
 import { Page } from './types';
 
 const App: React.FC = () => {
@@ -20,6 +21,8 @@ const App: React.FC = () => {
         return <ProductsPage />;
       case Page.WhyChooseUs:
         return <WhyChooseUsPage />;
+      case Page.Contact:
+        return <ContactUsPage />;
       default:
         return <HomePage onNavigate={setCurrentPage} />;
     }

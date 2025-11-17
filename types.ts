@@ -3,4 +3,5 @@ export enum Page {
   About = 'About',
   Products = 'Products',
   WhyChooseUs = 'Why Choose Us',
+  Contact = 'Contact Us',
 }

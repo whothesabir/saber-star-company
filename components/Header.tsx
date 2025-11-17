@@ -29,7 +29,7 @@ const NavLink: React.FC<{
 
 const Header: React.FC<HeaderProps> = ({ currentPage, onNavigate }) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const navLinks = [Page.Home, Page.About, Page.Products, Page.WhyChooseUs];
+  const navLinks = [Page.Home, Page.About, Page.Products, Page.WhyChooseUs, Page.Contact];
 
   return (
     <header className="bg-white/80 backdrop-blur-lg sticky top-0 z-50 shadow-sm">
